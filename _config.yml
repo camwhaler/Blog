@@ -19,8 +19,6 @@ markdown: kramdown
 baseurl: 
 permalink: /:title/
 
-disqus-shortname: webjeda-demo
-
 
 #compress.html
 compress_html:

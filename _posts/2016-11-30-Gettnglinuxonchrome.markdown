@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Emulators on chromebooks [Tutorial]"
+title: 'Emulators on chromebooks [Tutorial]'
 published: true
 ---
 In this tutorial I will provide instructions on how to get linux (or rather access it) on your chromebook such as emulators, which is what I will be focusing on in this tutorial.
@@ -15,7 +15,7 @@ In this tutorial I will provide instructions on how to get linux (or rather acce
 <div class="alert alert-dismissible alert-warning">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
   <h4>Note</h4>
-  <p>If your chromebook doesn't have and intel sticker on it, don't bother with this tutorial. Your chromebook isn't powerful enough. (If you have a lenovo chromebook you should be good).<a href="#" class="alert-link"></a></p>
+  <p>If your chromebook doesn't have an intel sticker on it, don't bother with this tutorial. Your chromebook isn't powerful enough. (If you have a lenovo chromebook you should be good).<a href="#" class="alert-link"></a></p>
 </div>
 
 To make this simpler for me, go [here](http://www.howtogeek.com/162120/how-to-install-ubuntu-linux-on-your-chromebook-with-crouton/){: target="_blank"} and follow step one to get into developer mode. Follow step two to the where they want you to copy and paste a command in the shell (the black page with white text). Insted of using their command use mine insted: 

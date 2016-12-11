@@ -3,7 +3,7 @@ layout: page
 title: 'Emulators on chromebooks [Tutorial]'
 published: true
 ---
-In this tutorial I will provide instructions on how to get linux (or rather access it) on your chromebook such as emulators, which is what I will be focusing on in this tutorial.
+In this tutorial I will provide instructions on how to get linux (or rather access it) on your chromebook and get acess to various linux programs such as emulators, which is what I will be focusing on in this tutorial.
 
 <div class="alert alert-dismissible alert-warning">
   <button type="button" class="close" data-dismiss="alert">&times;</button>

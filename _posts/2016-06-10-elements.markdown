@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Elements (Ignore)"
-published: false
+title: Elements (Ignore)
+published: true
 ---
 This page is just elements for me to use on my pages
 
